@@ -6,4 +6,3 @@ class Person
     puts "The Dog is sitting"
   end
 end
-
